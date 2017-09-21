@@ -1,3 +1,4 @@
 # hello-world
 hello world repository
-relearning github
+
+if this text appears on the readme file of the master branch then the merge was successful 
